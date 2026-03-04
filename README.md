@@ -1,50 +1,186 @@
-# Welcome to your Expo app 👋
+# Investa — Investing Made Simple for the Next Generation
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+**Investa** is a mobile-first micro-investment platform built to make investing accessible, automated, and understandable for young and first-time investors in Kenya.
 
-## Get started
+We remove the traditional barriers to investing, high minimum capital, complexity, and fragmented platforms, and replace them with simple onboarding, small starting amounts, and automated portfolio allocation.
 
-1. Install dependencies
+Start small. Invest consistently. Grow confidently.
 
-   ```bash
-   npm install
-   ```
+---
 
-2. Start the app
+# The Vision
 
-   ```bash
-   npx expo start
-   ```
+Millions of young people want to invest, but most never start.
 
-In the output, you'll find options to open the app in a
+Investa exists to make investing as easy as saving airtime: low entry, guided choices, automation-first, and mobile-native.
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+We aim to become the default entry point for first-time investors building diversified portfolios across multiple asset classes.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+---
 
-## Get a fresh project
+# The Problem
 
-When you're ready, run:
+Today’s investment landscape is not beginner-friendly:
 
-```bash
-npm run reset-project
-```
+* High minimum deposits
+* Complicated onboarding and documentation
+* Financial jargon and decision overload
+* Separate platforms for each asset type
+* Manual investing processes
+* Low trust and low clarity
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+Young investors are willing, but blocked by friction.
 
-## Learn more
+---
 
-To learn more about developing your project with Expo, look at the following resources:
+# The Solution
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+Investa is a **multi-asset micro-investment platform** that lets users:
 
-## Join the community
+* Start investing from as little as KES 200–500
+* Choose preferred investment categories
+* Automatically allocate funds across assets
+* Set recurring top-ups
+* Track performance in a clean dashboard
+* Invest without deep financial expertise
 
-Join our community of developers creating universal apps.
+All complexity is handled behind the scenes.
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+---
+
+# What We’re Building
+
+## Mobile Investment App
+
+A clean, guided, automation-first investing experience:
+
+* Fast onboarding + KYC
+* Preference-based portfolio setup
+* Wallet deposits & withdrawals
+* Recurring auto-invest
+* Portfolio tracking & performance
+* Fractional investing
+* Secure PIN & biometric access
+
+---
+
+## Multi-Asset Exposure
+
+Users can invest across:
+
+* Fractional real estate & pooled assets
+* Local & global stocks
+* Government securities (T-Bills & bonds)
+* Unit trusts & money market funds
+
+Diversification — without complexity.
+
+---
+
+## Automation First
+
+Investa emphasizes consistency and compounding:
+
+* Recurring deposits
+* Automated allocation
+* Background investment execution
+* Smart portfolio distribution
+* Minimal manual decision burden
+
+Set it up once — keep growing.
+
+---
+
+## Trust & Security
+
+Trust is a product feature, not an afterthought:
+
+* KYC & identity verification
+* Encrypted storage
+* Secure wallet ledgering
+* Audit trails
+* Compliance-aware architecture
+* Regulated payment integrations
+
+---
+
+# Why Now
+
+* Mobile money adoption is high
+* Young population entering earning years
+* Growing interest in financial literacy
+* API-driven financial infrastructure
+* Fractional investing models are proven globally
+
+The infrastructure is ready — the experience isn’t. That’s the gap Investa fills.
+
+---
+
+# Technology Stack
+
+## Mobile
+
+* React Native (Expo)
+* Secure device storage
+* Push notifications
+* Modern navigation & state tools
+
+## Web
+
+* Next.js landing platform
+* TailwindCSS + modern UI components
+
+## Backend
+
+* Node.js services
+* PostgreSQL + Prisma
+* Redis caching & rate limiting
+* Secure authentication
+
+## Integrations
+
+* M-Pesa / Pesha payments
+* KYC verification providers
+* Notification services
+
+---
+
+# MVP Focus
+
+The first release prioritizes:
+
+* Guided onboarding
+* Wallet + payments
+* Automated allocation engine
+* Portfolio dashboard
+* Recurring investments
+* Android-first delivery
+
+Not included in MVP:
+
+* Real-time trading
+* Secondary markets
+* Crypto & forex
+* Social investing features
+* Advanced rebalancing
+
+Focus beats feature bloat.
+
+---
+
+# Success Looks Like
+
+* First-time investors start with small amounts
+* Users maintain recurring contributions
+* Portfolios become diversified early
+* Investing feels simple and understandable
+* Users build long-term investing habits
+
+---
+
+# Status
+
+Currently in MVP build phase.
+Architecture, flows, and integrations are being implemented progressively.
+
+Collaborators, testers, and early partners are welcome.
